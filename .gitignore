@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local document index and plotting cache; demo source files remain versioned.
+data/chunks.json
+data/vectors_*.json
+reports/.plot_cache/
