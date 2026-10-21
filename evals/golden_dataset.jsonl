@@ -1,0 +1,32 @@
+{"id": "q01", "question": "How is cache hit ratio calculated?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q02", "question": "What happens on an edge cache miss?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q03", "question": "Why can a cache hit reduce origin traffic?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q04", "question": "How does TTL affect stale content and revalidation?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q05", "question": "What does purge-based invalidation do?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q06", "question": "How can versioned URLs help with cache invalidation?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q07", "question": "Compare LRU and LFU eviction policies.", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q08", "question": "What measurements should be reported when evaluating a cache?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q09", "question": "What risk arises when caching personalized responses?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q10", "question": "What does stale-while-revalidate allow a cache to do?", "answerable": true, "relevant_document_ids": ["b0d7fd32375cee4a70a1b8c2b8282385"]}
+{"id": "q11", "question": "Define RAG in the local retrieval design note.", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q12", "question": "How does dense retrieval differ from lexical retrieval?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q13", "question": "What is the RRF contribution formula?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q14", "question": "What is the chunking tradeoff for small and large chunks?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q15", "question": "Why can overlapping chunks increase index size?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q16", "question": "How should a system verify generated citations?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q17", "question": "What should a RAG system do with contradictory evidence?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q18", "question": "How is recall at k defined?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q19", "question": "What does reciprocal rank measure?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q20", "question": "Why does changing embedding model often require reindexing?", "answerable": true, "relevant_document_ids": ["52eb4f1c604fb1c5e0615b0c538a9ac8"]}
+{"id": "q21", "question": "What watering schedules were compared in the fictional garden protocol?", "answerable": true, "relevant_document_ids": ["b142be1a30cea3980601d1437c4a2ad8"]}
+{"id": "q22", "question": "What sunlight issue affects interpretation of the planter observations?", "answerable": true, "relevant_document_ids": ["b142be1a30cea3980601d1437c4a2ad8"]}
+{"id": "q23", "question": "Which planter used more water in the fictional log?", "answerable": true, "relevant_document_ids": ["b142be1a30cea3980601d1437c4a2ad8"]}
+{"id": "q24", "question": "Why can the field note not support a reliable causal conclusion?", "answerable": true, "relevant_document_ids": ["b142be1a30cea3980601d1437c4a2ad8"]}
+{"id": "q25", "question": "What would improve the fictional garden experiment?", "answerable": true, "relevant_document_ids": ["b142be1a30cea3980601d1437c4a2ad8"]}
+{"id": "q26", "question": "Does the synthetic observation prove condition-based watering improves yield?", "answerable": true, "relevant_document_ids": ["b142be1a30cea3980601d1437c4a2ad8"]}
+{"id": "q27", "question": "What kinds of questions should a retrieval benchmark include?", "answerable": true, "relevant_document_ids": ["8d631224b7c7b6dd99be9c41294bacda"]}
+{"id": "q28", "question": "How should four retrieval methods be compared fairly?", "answerable": true, "relevant_document_ids": ["8d631224b7c7b6dd99be9c41294bacda"]}
+{"id": "q29", "question": "Are rerankers guaranteed to improve ranking quality?", "answerable": true, "relevant_document_ids": ["8d631224b7c7b6dd99be9c41294bacda"]}
+{"id": "q30", "question": "Why are local LLM judge scores not ground truth?", "answerable": true, "relevant_document_ids": ["8d631224b7c7b6dd99be9c41294bacda"]}
+{"id": "q31", "question": "What statistical significance did Planter B achieve?", "answerable": false, "relevant_document_ids": []}
+{"id": "q32", "question": "Which Ollama model won the independent 2024 benchmark?", "answerable": false, "relevant_document_ids": []}
