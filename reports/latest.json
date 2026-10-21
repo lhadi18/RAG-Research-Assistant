@@ -1,0 +1,41 @@
+{
+  "experiment_id": "retrieval-20261018T125913Z",
+  "timestamp": "2026-10-18T12:59:13.930314+00:00",
+  "dataset_version": "1",
+  "dataset_hash": "727430625ccf9a8d6d7a4bc8029e555fdf884f8d3f70c232b96c9d2416d8918f",
+  "corpus_hash": "cc2c940e4504746d470a3dc3ab342fe6f98f2b88b8239876b8657611e9e3e031",
+  "embedding_model": "nomic-embed-text",
+  "reranker_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "reranker_enabled": false,
+  "top_k": 5,
+  "results": [
+    {
+      "strategy": "bm25",
+      "status": "complete",
+      "questions": 32,
+      "metrics": {
+        "recall@5": 0.9375,
+        "mrr@5": 0.9375,
+        "ndcg@5": 0.9375,
+        "latency_ms": 0.11854390595544828
+      },
+      "failures": []
+    },
+    {
+      "strategy": "dense",
+      "status": "skipped",
+      "reason": "Local embedding service/model or optional reranker unavailable"
+    },
+    {
+      "strategy": "hybrid",
+      "status": "skipped",
+      "reason": "Local embedding service/model or optional reranker unavailable"
+    },
+    {
+      "strategy": "hybrid_rerank",
+      "status": "skipped",
+      "reason": "Local embedding service/model or optional reranker unavailable"
+    }
+  ],
+  "answer_evaluation": null
+}

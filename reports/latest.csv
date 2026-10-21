@@ -1,0 +1,5 @@
+strategy,status,recall@5,mrr@5,ndcg@5,latency_ms
+bm25,complete,0.9375,0.9375,0.9375,0.11854390595544828
+dense,skipped,,,,
+hybrid,skipped,,,,
+hybrid_rerank,skipped,,,,
