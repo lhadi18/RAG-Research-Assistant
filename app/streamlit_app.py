@@ -6,7 +6,7 @@ import streamlit as st
 
 API = os.getenv("RAG_API_URL", "http://localhost:8000")
 st.set_page_config(page_title="Local RAG Research Assistant", page_icon="📚", layout="wide")
-st.title("📚 Local RAG Research Assistant")
+st.title("Local RAG Research Assistant")
 st.caption("Private document research powered by local Ollama inference")
 try:
     health = requests.get(API + "/health/ollama", timeout=3).json()

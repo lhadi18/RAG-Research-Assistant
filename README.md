@@ -94,6 +94,12 @@ Run the FastAPI application:
 uvicorn rag_assistant.api.main:app --reload
 ```
 
+In another terminal, check that the API can reach Ollama and that both configured models are available:
+
+```bash
+curl http://localhost:8000/health/ollama
+```
+
 ### 4. Start the Streamlit interface
 
 Open another terminal, activate the virtual environment, and run:
